@@ -1,0 +1,66 @@
+body{
+    background-image: url(../img/sheet.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+   background-color: rgb(39, 39, 39);
+}
+
+section img{
+    height: 50%;
+    width: 300px;
+    position: relative;
+    top: -20px;
+    right: -200px;
+}
+
+section ul{
+    position: relative;
+    right: -260px;
+    top: -250px;
+}
+
+ul{
+    line-height: 60px;
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    font-family: 'permanent marker';
+    font-size: 2em;
+    color: tomato;
+}
+
+a:hover{
+    text-decoration: underline rgb(3, 3, 151);
+    
+}
+
+article{
+    margin: 0;
+    background-attachment: fixed;
+    text-align: right;
+    padding: 20px;
+    
+}
+
+img{
+    width: 700px;
+    height:auto;
+    position: relative;
+    top: -200px;
+    right: 15%;
+    border-radius: 10px;
+}
+
+h1{
+    text-align:left;
+    position:relative;
+    top:-150px;
+    left: 200px;
+    font-family: 'coming soon';
+    color: rgb(0, 0, 151);
+    font-style: bold;
+    font-size: 2em;
+}
